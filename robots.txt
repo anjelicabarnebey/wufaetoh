@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://riegaivas.pssuniverse.org/sitemap.xml
